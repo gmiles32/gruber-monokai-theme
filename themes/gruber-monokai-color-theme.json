@@ -116,21 +116,21 @@
 			"name": "JavaScript - DOM & invocation color fix",
 			"scope": "meta.function-call.js entity.name.function, meta.function-call.js support.function.dom.js, support.variable.dom.js, support.variable.property.js",
 			"settings": {
-				"foreground": "#95A99F"
+				"foreground": "#6c99bb"
 			}
 		},
 		{
 			"name": "JavaScript - if object property fix",
 			"scope": "support.variable.property.process",
 			"settings": {
-				"foreground": "#95A99F"
+				"foreground": "#6c99bb"
 			}
 		},
 		{
 			"name": "JavaScript - if object fix",
 			"scope": "support.variable.object.process",
 			"settings": {
-				"foreground": "#95A99F",
+				"foreground": "#6c99bb",
 				"fontStyle": "italic"
 			}
 		},
@@ -218,7 +218,7 @@
 			"scope": "storage.type",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#95A99F"
+				"foreground": "#6c99bb"
 			}
 		},
 		{
@@ -274,7 +274,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#95A99F"
+				"foreground": "#6c99bb"
 			}
 		},
 		{
@@ -282,7 +282,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#95A99F"
+				"foreground": "#6c99bb"
 			}
 		},
 		{
@@ -290,7 +290,7 @@
 			"scope": "support.type, support.class",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#95A99F"
+				"foreground": "#6c99bb"
 			}
 		},
 		{
@@ -382,7 +382,7 @@
 			"name": "Markup Styling",
 			"scope": "markup.bold, markup.italic",
 			"settings": {
-				"foreground": "#95A99F"
+				"foreground": "#6c99bb"
 			}
 		},
 		{
@@ -452,7 +452,7 @@
 			"name": "GO fix - define var, correct color",
 			"scope": "keyword.var.go",
 			"settings": {
-				"foreground": "#95A99F",
+				"foreground": "#6c99bb",
 				"fontStyle": "italic"
 			}
 		},
@@ -460,7 +460,7 @@
 			"name": "PHP fix - function call",
 			"scope": "meta.method-call.php entity.name.function",
 			"settings": {
-				"foreground": "#95A99F",
+				"foreground": "#6c99bb",
 				"fontStyle": ""
 			}
 		},
@@ -510,7 +510,7 @@
 			"name": "Python decorator call",
 			"scope": "entity.name.function.decorator.python",
 			"settings": {
-				"foreground": "#95A99F"
+				"foreground": "#6c99bb"
 			}
 		},
 	]
