@@ -1,20 +1,29 @@
 {
-  "name": "gruber-dark-gm",
-  "displayName": "gruber-dark-gm",
-  "description": "",
+  "name": "gruber-monokai-theme",
+  "displayName": "Gruber Monokai Theme",
+  "description": "Combination of Gruber and Monokai themes",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gmiles32/gruber-monokai-theme"
+  },
   "engines": {
     "vscode": "^1.89.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "gruber",
+    "monokai",
+    "dark theme"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Gruber Dark",
+        "label": "Gruber Monokai Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/Gruber Dark-color-theme.json"
+        "path": "./themes/gruber-monokai-color-theme.json"
       }
     ]
   }
