@@ -3,6 +3,7 @@
   "displayName": "Gruber Monokai Theme",
   "description": "Combination of Gruber and Monokai themes",
   "version": "0.0.1",
+  "publisher": "gmiles32",
   "repository": {
     "type": "git",
     "url": "https://github.com/gmiles32/gruber-monokai-theme"
